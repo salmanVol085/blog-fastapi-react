@@ -1,0 +1,8 @@
+backend/venv/include/*
+backend/venv/Lib/site-packages/*
+backend/venv/lib/*
+backend/venv/Scripts/*
+backend/venv/pyvenv.cfg
+backend/venv/*
+/frondend/node_modules/*
+
